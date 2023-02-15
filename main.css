@@ -80,6 +80,9 @@ nav a
     color: rgb(51, 50, 50);
     text-transform: uppercase;
 }
+#lst{
+    margin-bottom: 1.9rem;
+}
 nav a:hover{
     background-color: rgb(250, 233, 0);
     transition: .7s;
